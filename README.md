@@ -38,9 +38,9 @@ These days, it is hard to find high quality information online with search engin
 - [GBATemp](http://gbatemp.net)
   \[Contains unobtrusive but personalised ads\]:
   Forum on hacking consumer electronics, with a focus on game consoles
-- ![Static Badge](https://img.shields.io/badge/Fediverse-Lemmy-green?style=flat&logo=lemmy&logoColor=white)\
-  [Lemmy.zip](http://lemmy.zip):
-  Lemmy instance dedicated to technology
+- [Lemmy.zip](http://lemmy.zip):
+  Lemmy instance dedicated to technology\
+  ![Static Badge](https://img.shields.io/badge/Fediverse-Lemmy-green?style=flat&logo=lemmy&logoColor=white)
 
 ### News and Magazines
 
@@ -64,9 +64,9 @@ These days, it is hard to find high quality information online with search engin
 
 ### Communities
 
-- ![Static Badge](https://img.shields.io/badge/Fediverse-Mastodon-blue?style=flat&logo=mastodon&logoColor=white)\
-  [Mastodon](http://mastodon.social):
-  The most popular and the reference Mastodon instance; it is recommended to find a more niche server
-- ![Static Badge](https://img.shields.io/badge/Fediverse-Lemmy-green?style=flat&logo=lemmy&logoColor=white)\
-  [Lemmy](http://lemmy.ml):
-  The most popular and the reference Lemmy instance; it is recommended to find a more niche server
+- [Mastodon](http://mastodon.social):
+  The most popular and the reference Mastodon instance; it is recommended to find a more niche server\
+  ![Static Badge](https://img.shields.io/badge/Fediverse-Mastodon-blue?style=flat&logo=mastodon&logoColor=white)
+- [Lemmy](http://lemmy.ml):
+  The most popular and the reference Lemmy instance; it is recommended to find a more niche server\
+  ![Static Badge](https://img.shields.io/badge/Fediverse-Lemmy-green?style=flat&logo=lemmy&logoColor=white)
