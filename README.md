@@ -13,14 +13,12 @@ These days, it is hard to find high quality information online with search engin
   - [Table of Contents](#table-of-contents)
   - [People](#people)
     - [Thoughts](#thoughts)
-  - [Communities](#communities)
-    - [Technology](#technology)
-  - [Publications](#publications)
-    - [Technology](#technology-1)
-  - [Non-Profit Organisations](#non-profit-organisations)
-    - [Technology](#technology-2)
-  - [Wikis](#wikis)
-    - [General](#general)
+  - [Technology](#technology)
+    - [Communities](#communities)
+    - [News and Magazines](#news-and-magazines)
+    - [Non-profit organisations](#non-profit-organisations)
+  - [General](#general)
+    - [Encyclopedias and Wikis](#encyclopedias-and-wikis)
 
 ## People
 
@@ -29,19 +27,19 @@ These days, it is hard to find high quality information online with search engin
 - [Pluralistic](http://pluralistic.net):
   Cory Doctorow's personal blog about his opinions and observations
 
-## Communities
+## Technology
 
-### Technology
+### Communities
 
 - [Hacker News](http://news.ycombinator.com/news):
   General forum with a focus on technology and hacker culture, however discussions on other topics are also common
 - [GBATemp](http://gbatemp.net)
   \[Contains unobtrusive but personalised ads\]:
   Forum on hacking consumer electronics, with a focus on game consoles
+- [![Static Badge](https://img.shields.io/badge/Fediverse-Lemmy-green?style=flat&logo=lemmy&logoColor=white) Lemmy.zip](http://lemmy.zip):
+  Lemmy instance dedicated to technology
 
-## Publications
-
-### Technology
+### News and Magazines
 
 - [Linux Magazine](http://www.linux-magazine.com)
   \[Contains unobtrusive and unpersonalised ads\]:
@@ -49,16 +47,17 @@ These days, it is hard to find high quality information online with search engin
 - [9to5Mac](http://9to5mac.com):
   Online publication about the Apple ecosystem and related apps and accessories
 
-## Non-Profit Organisations
-
-### Technology
+### Non-profit organisations
 
 - [Free Software Foundation](http://www.fsf.org):
   Non-Profit Organisation campaigning for computer user freedom
 
-## Wikis
+## General
 
-### General
+### Encyclopedias and Wikis
 
 - [Wikipedia](http://wikipedia.org):
   Online encyclopedia that is maintained by a very large community of volunteers
+- [![Static Badge](https://img.shields.io/badge/Fediverse-Mastodon-green?style=flat&logo=mastodon&logoColor=white)
+ Mastodon](http://mastodon.social):
+  The most popular and reference Mastodon server; it is recommended to find a more niche server
