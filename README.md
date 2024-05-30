@@ -56,4 +56,4 @@ It's really hard to find good informatiion on search engines any more.
 
 ## Footnotes
 
-[^hacking]: Hacking refers to a mentality of *"hmm, what if I do this?"* applied mainly to computers but has appeared in other fields.
+[^hacking]: Hacking refers to a mentality of *"hmm, what if I do this?"* and tinkering applied mainly to computers but has appeared in other fields.
