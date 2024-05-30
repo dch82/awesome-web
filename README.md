@@ -32,7 +32,7 @@ It's really hard to find good informatiion on search engines any more.
 
 ### Technology
 
-- [Hacker News](http://news.ycombinator.com/news):
+- [Hacker[^hacking] News](http://news.ycombinator.com/news):
   General forum with a focus on technology and hacker[^hacking] culture, however discussions on other topics are also common
 
 - [GBATemp](http://gbatemp.net):
