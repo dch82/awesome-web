@@ -21,7 +21,6 @@ These days, it is hard to find high quality information online with search engin
     - [Technology](#technology-2)
   - [Wikis](#wikis)
     - [General](#general)
-  - [Footnotes](#footnotes)
 
 ## Blogs
 
