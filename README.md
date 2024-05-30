@@ -34,10 +34,10 @@ It's really hard to find good informatiion on search engines any more.
 
 - [Hacker News](http://news.ycombinator.com/news):
   General forum with a focus on technology and hacker[^hacking] culture, however discussions on other topics are also common
-
 - [GBATemp](http://gbatemp.net)
   \[Contain unobtrusive but personalised ads\]:
   Forum on hacking[^hacking] technology, with a focus on game consoles
+
 ## Publications
 
 ### Technology
