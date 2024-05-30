@@ -6,6 +6,7 @@ A list of the awesome web resources
 
 These days, it is hard to find high quality information online with search engines.
 
+<!-- I use Markdown All in One for Web to maintain table -->
 ## Table of Contents
 
 - [Awesome Web](#awesome-web)
