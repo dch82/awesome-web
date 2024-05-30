@@ -35,10 +35,10 @@ It's really hard to find good informatiion on search engines any more.
 ### Technology
 
 - [Hacker News](http://news.ycombinator.com/news):
-  General forum with a focus on technology and hacker[^hacking] culture, however discussions on other topics are also common
+  General forum with a focus on technology and hacker culture, however discussions on other topics are also common
 - [GBATemp](http://gbatemp.net)
   \[Contain unobtrusive but personalised ads\]:
-  Forum on hacking[^hacking] technology, with a focus on game consoles
+  Forum on hacking consumer electronics, with a focus on game consoles
 
 ## Publications
 
@@ -63,7 +63,3 @@ It's really hard to find good informatiion on search engines any more.
 
 - [Wikipedia](http://wikipedia.org):
   Online encyclopedia that is maintained by a very large community of volunteers
-
-## Footnotes
-
-[^hacking]: Hacking refers to a mentality of *"hmm, what if I do this?"* and tinkering applied mainly to computers but has appeared in other fields.
