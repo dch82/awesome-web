@@ -19,6 +19,7 @@ These days, it is hard to find high quality information online with search engin
     - [Non-profit organisations](#non-profit-organisations)
   - [General](#general)
     - [Encyclopedias and Wikis](#encyclopedias-and-wikis)
+    - [Communities](#communities-1)
 
 ## People
 
@@ -59,6 +60,12 @@ These days, it is hard to find high quality information online with search engin
 
 - [Wikipedia](http://wikipedia.org):
   Online encyclopedia that is maintained by a very large community of volunteers
+
+### Communities
+
 - ![Static Badge](https://img.shields.io/badge/Fediverse-Mastodon-blue?style=flat&logo=mastodon&logoColor=white)\
   [Mastodon](http://mastodon.social):
-  The most popular and reference Mastodon server; it is recommended to find a more niche server
+  The most popular and the reference Mastodon instance; it is recommended to find a more niche server
+- ![Static Badge](https://img.shields.io/badge/Fediverse-Lemmy-green?style=flat&logo=lemmy&logoColor=white)\
+  [Lemmy](http://lemmy.ml):
+  The most popular and the reference Lemmy instance; it is recommended to find a more niche server
