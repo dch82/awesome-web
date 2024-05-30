@@ -19,6 +19,8 @@ It's really hard to find good informatiion on search engines any more.
     - [Technology](#technology-1)
   - [Non-Profit Organisations](#non-profit-organisations)
     - [Technology](#technology-2)
+  - [Wikis](#wikis)
+    - [General](#general)
   - [Footnotes](#footnotes)
 
 ## Blogs
@@ -54,6 +56,13 @@ It's really hard to find good informatiion on search engines any more.
 
 - [Free Software Foundation](http://www.fsf.org):
   Non-Profit Organisation campaigning for computer user freedom
+
+## Wikis
+
+### General
+
+- [Wikipedia](http://wikipedia.org):
+  Online encyclopedia that is maintained by a very large community of volunteers
 
 ## Footnotes
 
