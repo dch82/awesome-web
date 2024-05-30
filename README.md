@@ -36,7 +36,8 @@ These days, it is hard to find high quality information online with search engin
 - [GBATemp](http://gbatemp.net)
   \[Contains unobtrusive but personalised ads\]:
   Forum on hacking consumer electronics, with a focus on game consoles
-- ![Static Badge](https://img.shields.io/badge/Fediverse-Lemmy-green?style=flat&logo=lemmy&logoColor=white)   [Lemmy.zip](http://lemmy.zip):
+- ![Static Badge](https://img.shields.io/badge/Fediverse-Lemmy-green?style=flat&logo=lemmy&logoColor=white)..
+  [Lemmy.zip](http://lemmy.zip):
   Lemmy instance dedicated to technology
 
 ### News and Magazines
@@ -58,6 +59,6 @@ These days, it is hard to find high quality information online with search engin
 
 - [Wikipedia](http://wikipedia.org):
   Online encyclopedia that is maintained by a very large community of volunteers
-- ![Static Badge](https://img.shields.io/badge/Fediverse-Mastodon-green?style=flat&logo=mastodon&logoColor=white)
- [Mastodon](http://mastodon.social):
+- ![Static Badge](https://img.shields.io/badge/Fediverse-Mastodon-green?style=flat&logo=mastodon&logoColor=white)..
+  [Mastodon](http://mastodon.social):
   The most popular and reference Mastodon server; it is recommended to find a more niche server
