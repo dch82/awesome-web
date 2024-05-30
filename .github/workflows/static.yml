@@ -22,6 +22,15 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Convert
+        uses: docker://pandoc/core:2.9
+        with:
+          args: "-f README.md > index.html" # gets appended to pandoc command
   deploy:
     environment:
       name: github-pages
@@ -30,11 +39,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Converts Markdown to HTML
-        uses: jaywcjlove/markdown-to-html-cli@main
-        with:
-          source: README.md
-          output: index.html
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
