@@ -59,6 +59,6 @@ These days, it is hard to find high quality information online with search engin
 
 - [Wikipedia](http://wikipedia.org):
   Online encyclopedia that is maintained by a very large community of volunteers
-- ![Static Badge](https://img.shields.io/badge/Fediverse-Mastodon-green?style=flat&logo=mastodon&logoColor=white)\
+- ![Static Badge](https://img.shields.io/badge/Fediverse-Mastodon-blue?style=flat&logo=mastodon&logoColor=white)\
   [Mastodon](http://mastodon.social):
   The most popular and reference Mastodon server; it is recommended to find a more niche server
