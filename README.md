@@ -4,8 +4,7 @@ A list of the awesome web resources
 
 ## Rationale
 
-The 'Big Web' is more or less crap at this point, what with personalised ads, paywalls and AI-generated content,
-so I decided to make a directory of the world wide web, the smaller blogs and sites.
+It's really hard to find good informatiion on search engines any more.
 
 ## Table of Contents
 
@@ -14,10 +13,13 @@ so I decided to make a directory of the world wide web, the smaller blogs and si
   - [Table of Contents](#table-of-contents)
   - [Blogs](#blogs)
     - [Personal](#personal)
-  - [Publications](#publications)
+  - [Forums](#forums)
     - [Technology](#technology)
-  - [Non-Profit Organisations](#non-profit-organisations)
+  - [Publications](#publications)
     - [Technology](#technology-1)
+  - [Non-Profit Organisations](#non-profit-organisations)
+    - [Technology](#technology-2)
+  - [Footnotes](#footnotes)
 
 ## Blogs
 
@@ -26,6 +28,15 @@ so I decided to make a directory of the world wide web, the smaller blogs and si
 - [Pluralistic](http://pluralistic.net):
   Cory Doctorow's personal blog about his opinions and observations
 
+## Forums
+
+### Technology
+
+- [Hacker News](http://news.ycombinator.com/news):
+  General forum with a focus on technology and hacker[^hacking] culture, however discussions on other topics are also common
+
+- [GBATemp](http://gbatemp.net):
+  Forum on hacking[^hacking] technology, with a focus on game consoles
 ## Publications
 
 ### Technology
@@ -42,3 +53,7 @@ so I decided to make a directory of the world wide web, the smaller blogs and si
 
 - [Free Software Foundation](http://www.fsf.org):
   Non-Profit Organisation campaigning for computer user freedom
+
+## Footnotes
+
+[^hacking]: Hacking refers to a mentality of *"hmm, what if I do this?"* applied mainly to computers but has appeared in other fields.
