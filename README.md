@@ -11,9 +11,9 @@ These days, it is hard to find high quality information online with search engin
 - [Awesome Web](#awesome-web)
   - [Rationale](#rationale)
   - [Table of Contents](#table-of-contents)
-  - [Blogs](#blogs)
-    - [Personal](#personal)
-  - [Forums](#forums)
+  - [People](#people)
+    - [Thoughts](#thoughts)
+  - [Communities](#communities)
     - [Technology](#technology)
   - [Publications](#publications)
     - [Technology](#technology-1)
@@ -22,14 +22,14 @@ These days, it is hard to find high quality information online with search engin
   - [Wikis](#wikis)
     - [General](#general)
 
-## Blogs
+## People
 
-### Personal
+### Thoughts
 
 - [Pluralistic](http://pluralistic.net):
   Cory Doctorow's personal blog about his opinions and observations
 
-## Forums
+## Communities
 
 ### Technology
 
